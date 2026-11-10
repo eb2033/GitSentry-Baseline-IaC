@@ -1,2 +1,1 @@
-# GitSentry-Baseline-IaC
-IaC baseline source of truth repository for my FYP project 
+<!-- Intentionally weak baseline for comparison; never applies Terraform; table of differences from infra-hardened (headings only). TODO -->
