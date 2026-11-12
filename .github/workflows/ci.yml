@@ -1,0 +1,1 @@
+# Single-job weak CI on main and scenario/**: job-level secrets, tag-pinned actions, static read-only AWS keys for terraform init/plan only, one late Gitleaks scan of current tree. TODO
